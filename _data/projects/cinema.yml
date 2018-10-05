@@ -1,0 +1,17 @@
+name: C.I.N.E.M.A. Is Noah's Extensible Mayfair Alternative
+desc: Full-stack IPTV software 
+site: https://github.com/up-for-grabs/up-for-grabs.net
+tags:
+- oss
+- web
+- backend
+- mobile
+- iptv
+- Python
+- Flask
+- Ionic Framework
+- Documentation
+- Beginners
+upforgrabs:
+  name: up-for-grabs
+  link: https://github.com/CINEMA-IPTV/CINEMA-Docs/labels/up-for-grabs
